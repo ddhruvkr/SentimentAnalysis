@@ -1,0 +1,24 @@
+[0428/032831:INFO:scoped_logging.cc(50)] Starting logs for version: 2.18.2
+[0428/032831:INFO:crash_client.cc(273)] GoogleCrashHandler could not be reached.
+[0428/032831:INFO:chrome_cleaner_main.cc(221)] Crash reporting is not available.
+[0428/032834:INFO:chrome_cleaner_main.cc(95)] Successfully re-launched elevated.
+[0428/032834:INFO:scoped_logging.cc(50)] Starting logs for version: 2.18.2
+[0428/032834:INFO:chrome_cleaner_main.cc(218)] --elevated
+[0428/032834:INFO:crash_client.cc(273)] GoogleCrashHandler could not be reached.
+[0428/032834:INFO:chrome_cleaner_main.cc(221)] Crash reporting is not available.
+[0428/032834:ERROR:chrome_cleaner_main.cc(243)] Failed to remove zone identifier, 80004005: The requested lookup key was not found in any active activation context. (0x36B7)
+[0428/032835:INFO:recovery_component.cc(208)] Sent request to download Recovery Component.
+[0428/032835:INFO:chrome_cleaner_main.cc(322)] Self-deleting.
+[0428/032835:INFO:chrome_cleaner_main.cc(337)] Exiting with code: 0
+[0428/032835:WARNING:logging_service.cc(96)] At least the last 5 log lines have not been uploaded to Safe Browsing.
+[0428/032838:INFO:recovery_component.cc(172)] Recovery Component successfully downloaded.
+[0428/032839:INFO:chrome_profile_reset_component.cc(116)] Using Old version field from registry. Update in progress?
+[0428/032839:INFO:chrome_profile_reset_component.cc(126)] Found Compatible Chrome version: 42.0.2311.90
+[0428/032840:INFO:task_scheduler.cc(732)] Successfully registered: "C:\Users\ronish\Desktop\software_removal_tool.exe" --upload-log-file --elevated
+[0428/032941:INFO:recovery_component.cc(143)] ChromeRecovery returned code: 1
+[0428/032941:INFO:chrome_profile_reset_component.cc(116)] Using Old version field from registry. Update in progress?
+[0428/032941:INFO:chrome_profile_reset_component.cc(126)] Found Compatible Chrome version: 42.0.2311.90
+[0428/032941:INFO:chrome_profile_reset_component.cc(83)] Found C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0428/032942:INFO:chrome_cleaner_main.cc(322)] Self-deleting.
+[0428/032942:INFO:chrome_cleaner_main.cc(337)] Exiting with code: 2
+[0428/032942:WARNING:logging_service.cc(96)] At least the last 9 log lines have not been uploaded to Safe Browsing.
